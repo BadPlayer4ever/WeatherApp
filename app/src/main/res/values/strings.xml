@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BasicWeatherApp</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="temperature">Temperature</string>
+    <string name="city">"City "</string>
+    <string name="Country">Country</string>
+    <string name="search">Search Info</string>
+    <string name="notFound">Not Found</string>
+    <string name="found">Info Found</string>
+</resources>

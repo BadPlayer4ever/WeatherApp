@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BasicWeatherApp</string>
+    <string name="pressure">Presion</string>
+    <string name="humidity">Humedad</string>
+    <string name="temperature">Temperatura</string>
+    <string name="city">Ciudad</string>
+    <string name="Country">Pais</string>
+    <string name="search">Consultar</string>
+    <string name="notFound">No encontrado</string>
+    <string name="found">Info. Encontrada</string>
+</resources>
